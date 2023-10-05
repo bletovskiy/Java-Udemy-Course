@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Dealership {
+public class Dealershipp {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         System.out.println(" - Welcome to the Java Dealership");
